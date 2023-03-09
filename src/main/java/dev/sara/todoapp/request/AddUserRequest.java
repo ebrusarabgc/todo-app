@@ -12,5 +12,4 @@ import lombok.Setter;
 public class AddUserRequest {
     private String username;
     private String password;
-
 }

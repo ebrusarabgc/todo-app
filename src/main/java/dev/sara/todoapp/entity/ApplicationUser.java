@@ -24,5 +24,4 @@ public class ApplicationUser {
 
     @OneToMany
     private List<Todo> todoList = new ArrayList<>();
-
 }
